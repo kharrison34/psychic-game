@@ -3,7 +3,17 @@ body{
 }
 
 .jumbotron{
-    background-color: blue
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    
 }
+ h1{
+     text-align: center;
+ }
 
-
+ p{
+     text-align: center;
+ }
